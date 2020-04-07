@@ -2,65 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1784c597-8569-4fa8-a86a-14194b1eaa71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/programer-ai-book.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kears/LR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/programer-ai-book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/programer-ai-book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/HandTearingDNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/HandTearingDNN.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/HandTearingDNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="programer-ai-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programer-ai-book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programer-ai-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programer-ai-book" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1a6fT2t3qPdIEQbgueNTl0nl3D2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -69,7 +35,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -87,19 +53,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.LR">
     <configuration name="HandTearingDNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programer-ai-book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +76,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programer-ai-book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kears" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kears/LR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="programer-ai-book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LR" />
         <item itemvalue="Python.HandTearingDNN" />
       </list>
     </recent_temporary>
@@ -138,56 +137,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586058558861</updated>
-      <workItem from="1586058560389" duration="42000" />
+      <workItem from="1586058560389" duration="1601000" />
+      <workItem from="1586245431342" duration="400000" />
+      <workItem from="1586246107976" duration="472000" />
+      <workItem from="1586246631373" duration="322000" />
+      <workItem from="1586247416193" duration="322000" />
+      <workItem from="1586247824206" duration="66000" />
+      <workItem from="1586247914765" duration="5384000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123130605" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="leetcode" side_tool="true" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/programer_ai_book$HandTearingDNN.coverage" NAME="HandTearingDNN Coverage Results" MODIFIED="1586058658911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+  <component name="WindowStateProjectService">
+    <state x="624" y="252" key="#Notifications" timestamp="1586060998019">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="624" y="252" key="#Notifications/536.1175.1440.811/0.23.2048.1129@0.23.2048.1129" timestamp="1586060998019" />
+    <state x="712" y="322" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586061005120">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="712" y="322" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/536.1175.1440.811/0.23.2048.1129@0.23.2048.1129" timestamp="1586061005120" />
+    <state width="1878" height="309" key="GridCell.Tab.0.bottom" timestamp="1586253109879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586188944448" />
+    <state width="1878" height="309" key="GridCell.Tab.0.bottom/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586253109879" />
+    <state width="1878" height="309" key="GridCell.Tab.0.center" timestamp="1586253109877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586188944445" />
+    <state width="1878" height="309" key="GridCell.Tab.0.center/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586253109877" />
+    <state width="1878" height="309" key="GridCell.Tab.0.left" timestamp="1586253109876">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586188944444" />
+    <state width="1878" height="309" key="GridCell.Tab.0.left/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586253109876" />
+    <state width="1878" height="309" key="GridCell.Tab.0.right" timestamp="1586253109878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586188944447" />
+    <state width="1878" height="309" key="GridCell.Tab.0.right/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586253109878" />
+    <state x="194" y="44" key="SettingsEditor" timestamp="1586188721174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="194" y="44" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586188721174" />
+    <state x="624" y="242" key="scopes" timestamp="1586061520467">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="624" y="242" key="scopes/536.1152.1440.900/0.0.2048.1152@0.0.2048.1152" timestamp="1586061520467" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/HandTearingDNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="neuron" />
+        <watch expression="neuron" />
+        <watch expression="error" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/programer_ai_book$XOR.coverage" NAME="LR Coverage Results" MODIFIED="1586253109857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kears" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>error</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
 </project>
